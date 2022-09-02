@@ -1,5 +1,5 @@
 # QR-Code-Genreator
 
-![QR-Code-Genreator](./img/qr.png)
+![QR-Code-Genreator]("https://ibb.co/9922Kg5")
 
 
