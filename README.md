@@ -1,5 +1,5 @@
 # QR-Code-Genreator
 
-![QR-Code-Genreator]("./img/screen.png")
+![QR-Code-Genreator](./img/screen.png)
 
 
